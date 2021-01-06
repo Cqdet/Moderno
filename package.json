@@ -1,0 +1,22 @@
+{
+  "name": "moderno-bot",
+  "description": "A modern, modular discord.js based bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "@types/moment": "^2.13.0",
+    "@types/redis": "^2.8.28",
+    "@types/sqlite3": "^3.1.6",
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.1",
+    "ffmpeg": "^0.0.4",
+    "https": "^1.0.0",
+    "moment": "^2.29.1",
+    "node-pre-gyp": "^0.17.0",
+    "redis": "^3.0.2",
+    "sqlite3": "^5.0.0",
+    "ytdl-core": "^4.3.1"
+  }
+}

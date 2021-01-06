@@ -1,0 +1,6 @@
+node_modules/
+bot.db
+config.json
+lib/ 
+yarn-error.log
+yarn.lock

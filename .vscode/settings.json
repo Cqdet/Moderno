@@ -1,0 +1,7 @@
+{
+    "deno.enable": false,
+    "deno.unstable": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
